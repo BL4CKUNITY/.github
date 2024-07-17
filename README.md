@@ -36,3 +36,5 @@ Voice Chats: Trete unseren Voice Chats bei, um dich live mit anderen Mitgliedern
 Komm zu BL4CKUNITY und werde Teil einer lebendigen und unterstützenden Community. Egal, ob du ein erfahrener Gamer, ein Programmierprofi oder ein Anfänger bist, bei uns bist du herzlich willkommen!
 
 https://discord.gg/WHse3Xju
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C810MJ18)
